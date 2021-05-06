@@ -14,7 +14,7 @@ namespace testtest.dto
 
         public const string BaseAPIAddress = "http://localhost:58212/";
         //public const string BaseAPIAddress= "http://193.140.43.22:8080/";
-
+        //test
         public static class Authentication
         {
             public const string Login = Base + "/auth/login";
