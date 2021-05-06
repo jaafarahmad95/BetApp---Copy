@@ -1,0 +1,69 @@
+<div class="text-center father">
+  <form class="form-signin" [formGroup]="registerForm" (ngSubmit)="Login()">
+    <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+
+    <div class="input-group mt-2">
+      <label for="inputEmail" class="sr-only">Username</label>
+      <input [class.is-invalid]="registerForm.get('username').errors
+      && registerForm.get('username').touched"
+      type="text"
+      class="form-control"
+      placeholder="Username"
+      formControlName="username">
+
+      <div class="input-group-append">
+        <span class="input-group-text" id="basic-addon1">@</span>
+      </div>
+      <div class="invalid-feedback">
+        Please enter a Username
+      </div>
+    </div>
+
+    <div class="input-group mt-2 mb-2">
+
+      <label for="inputPassword" class="sr-only">Password</label>
+      <input [class.is-invalid]="registerForm.get('password').errors
+      && registerForm.get('password').touched"
+      [type]="fieldTextType ? 'text' : 'password'"
+      class="form-control"
+      placeholder="Password"
+      formControlName="password">
+
+      <div class="input-group-append">
+        <span class="input-group-text">
+          <i
+          class="fa"
+          [ngClass]="{
+            'fa-eye-slash': !fieldTextType,
+            'fa-eye': fieldTextType}"
+            (click)="toggleFieldTextType()"
+          ></i>
+        </span>
+      </div>
+
+      <div *ngIf="registerForm.get('password').hasError('required')" class="invalid-feedback">
+        Please enter a Password
+      </div>
+
+      <div *ngIf="registerForm.get('password').hasError('minlength')" class="invalid-feedback">
+        Password must be at least 8 characters.
+      </div>
+
+      <div *ngIf="registerForm.get('password').hasError('maxlength')" class="invalid-feedback">
+        Password must be at most 12 characters.
+      </div>
+
+    </div>
+
+    <button [disabled]='!registerForm.valid' class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+    <button class="btn btn-lg btn-info btn-block" type="button" (click)="LogAsGuest()">As Guest</button>
+    <div class="modal-footer" style="justify-content:center;">
+      <div class="etc-login-form">
+        <a  routerLink='/' routerLinkActive='active'><p>forgot your password?</p></a>
+        <a  routerLink='/register' routerLinkActive='active'><p>new user?</p></a>
+      </div>
+    </div>
+  </form>
+
+</div>
+

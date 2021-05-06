@@ -1,0 +1,157 @@
+<!--
+<footer class="my-5 pt-5 text-muted text-center text-small">
+  <p class="mb-1">© 2017–2021 Company Name</p>
+  <ul class="list-inline">
+    <li class="list-inline-item"><a href="#">Privacy</a></li>
+    <li class="list-inline-item"><a href="#">Terms</a></li>
+    <li class="list-inline-item"><a href="#">Support</a></li>
+  </ul>
+</footer>
+-->
+<!-- Footer -->
+
+<!-- max-height:calc(100% - 692px); -->
+<!-- color   background-color: yellow;-->
+<footer
+  *ngIf="vs.visible"
+  class="page-footer mt-2 font-small  unique-color-dark" style="z-index: 998; height: auto;">
+      <!-- color background-color: green;-->
+      <h6
+        class="sidebar-heading d-flex bg-primary justify-content-center align-items-center text-muted my-0"
+        style="cursor: pointer;"
+        >
+        <i
+        *ngIf="!arrowUp"
+        class="fa fa-angle-double-up fa-2x"
+        (click)="collapseFooter = !collapseFooter; arrowUp=!arrowUp;"
+        [attr.aria-expanded]="!collapseFooter"
+        aria-controls="collapseFooter"
+        ></i>
+        <i
+        *ngIf="arrowUp"
+        class="fa fa-angle-double-down fa-2x"
+        (click)="collapseFooter = !collapseFooter;
+        arrowUp=!arrowUp;"
+        [attr.aria-expanded]="!collapseFooter"
+        aria-controls="collapseFooter"
+        ></i>
+      </h6>
+
+        <div class="container text-center text-md-left mt-2" id="collapseBasic"
+        [collapse]="collapseFooter"
+        [isAnimated]="true"
+        >
+
+          <!-- Grid row -->
+          <div class="row" >
+
+            <!-- Grid column -->
+            <div class="col-md-2 col-lg-2 col-xl-2 mx-auto">
+              <!-- Content -->
+              <h6 class="text-uppercase font-weight-bold">Company name</h6>
+              <hr class="deep-purple accent-2 mb-2 mt-0 d-inline-block mx-auto" style="width: 60px;">
+              <p>Here you can use rows and columns here to organize your footer content.
+              </p>
+
+              © 2020 Copyright:
+              <a href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+            </div>
+            <!-- Grid column -->
+
+            <!-- Grid column -->
+            <div class="col-md-2 col-lg-2 col-xl-2 mx-auto">
+
+              <!-- Links -->
+              <h6 class="text-uppercase font-weight-bold">Products</h6>
+              <hr class="deep-purple accent-2  mb-2 mt-0 d-inline-block mx-auto" style="width: 60px;">
+              <p>
+                <a href="#!">MDBootstrap</a>
+              </p>
+              <p>
+                <a href="#!">MDWordPress</a>
+              </p>
+              <p>
+                <a href="#!">BrandFlow</a>
+              </p>
+              <p>
+                <a href="#!">Bootstrap Angular</a>
+              </p>
+
+            </div>
+            <!-- Grid column -->
+
+            <!-- Grid column -->
+            <div class="col-md-2 col-lg-2 col-xl-2 mx-auto">
+
+              <!-- Links -->
+              <h6 class="text-uppercase font-weight-bold">Useful links</h6>
+              <hr class="deep-purple accent-2 mb-2 mt-0 d-inline-block mx-auto" style="width: 60px;">
+              <p>
+                <a href="#!">Your Account</a>
+              </p>
+              <p>
+                <a href="#!">Become an Affiliate</a>
+              </p>
+              <p>
+                <a href="#!">Shipping Rates</a>
+              </p>
+              <p>
+                <a href="#!">Help</a>
+              </p>
+
+            </div>
+            <!-- Grid column -->
+
+            <!-- Grid column -->
+            <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-1">
+
+              <!-- Links -->
+              <h6 class="text-uppercase font-weight-bold">Contact</h6>
+              <hr class="deep-purple accent-2 mb-2 mt-0 d-inline-block mx-auto" style="width: 60px;">
+              <p class="mb-2">
+                <i class="fa fa-home mr-3 "></i> New York, NY 10012, US
+              </p>
+              <p class="mb-2">
+                <i class="fa fa-envelope mr-3"></i> info@example.com
+              </p>
+              <p class="mb-2">
+                <i class="fa fa-phone mr-3"></i> + 01 234 567 88
+              </p>
+              <p class="mb-2">
+                <i class="fa fa-print mr-3"></i> + 01 234 567 88
+              </p>
+
+              <a class="fb-ic" href="#">
+                <i class="fa fa-facebook white-text mr-4"></i>
+              </a>
+
+              <!-- Twitter -->
+              <a class="tw-ic" href="#">
+                <i class="fa fa-twitter white-text mr-4"></i>
+              </a>
+
+              <!-- Google +-->
+              <a class="gplus-ic" href="#">
+                <i class="fa fa-google-plus white-text mr-4"></i>
+              </a>
+
+              <!--Linkedin -->
+              <a class="li-ic" href="#">
+                <i class="fa fa-linkedin white-text mr-4"></i>
+              </a>
+
+              <!--Instagram-->
+              <a class="ins-ic" href="#">
+                <i class="fa fa-instagram white-text mr-4"></i>
+              </a>
+
+            </div>
+
+          </div>
+          <!-- Grid row -->
+
+        </div>
+
+</footer>
+
+<!-- Footer -->

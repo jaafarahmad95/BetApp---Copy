@@ -1,0 +1,418 @@
+<!-- <div class="row" *ngIf="member"> -->
+<div class="row" *ngIf="AccountInfo">
+  <div class="col-4">
+
+    <div class="card">
+      <!-- card-img -->
+      <!-- <img src="{{member.photoUrl || './assets/user.png'}}" alt="{{member.knownAs}}"
+        class="card-img-top img-thumbnail">
+      -->
+      <img
+        src="{{'./assets/user.png'}}"
+        alt="MemberName"
+        class="card-img-top img-thumbnail">
+
+      <!-- card-body -->
+      <div class="card-body">
+        <div>
+          <strong>Location:</strong>
+          <p>{{AccountInfo.city}} , {{AccountInfo.country}}</p>
+        </div>
+      </div>
+
+      <!-- card-footer -->
+      <div class="card-footer">
+
+        <div class="btn-group d-flex" style="justify-content: space-between;">
+
+          <button class="btn btn-outline-primary" style="width: 100%;">
+            <i class="fa fa-thumbs-up" style="font-size: 25px;"></i>
+          </button>
+
+          <button class="btn btn-outline-success" style="width: 100%;">
+            <i class="fa fa-comment" style="font-size: 25px;"></i>
+          </button>
+
+          <!-- <button class="btn btn-outline-dark" routerLink='/profile/edit' style="width: 100%;">
+            <i class="fa fa-edit" style="font-size: 25px;"></i>
+          </button> -->
+          <button class="btn btn-outline-dark" style="width: 100%;">
+            <i class="fa fa-edit" style="font-size: 25px;"></i>
+          </button>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="col-8">
+    <tabset *ngIf="member" class="member-tabset" >
+      <tab heading='About {{member.name}}' class="p-1">
+        <h4>Full Name</h4>
+        <p class="ml-2">{{member.name}} {{member.lastName}}</p>
+        <h4>Username</h4>
+        <p class="ml-2">{{AccountInfo.username}}</p>
+        <h4>Email</h4>
+        <p class="ml-2">{{member.email}}</p>
+        <h4>Country</h4>
+        <p class="ml-2">{{member.country}}</p>
+        <h4>City</h4>
+        <p class="ml-2">{{member.city}}</p>
+        <h4>personalID</h4>
+        <p class="ml-2">{{member.personalID}}</p>
+        <h4>Birth Day</h4>
+        <p class="ml-2">{{member.birthdate | date: 'dd/MM/yyyy'}}</p>
+      </tab>
+      <tab heading='Account' class="p-1">
+        <h4>Balance</h4>
+        <h5>{{AccountInfo.balance}} &#8378;</h5>
+        <hr>
+        <h4>Deposite</h4>
+        <form class="col-6" [formGroup]='DForm'
+          (ngSubmit)="DForm.valid && Deposite()"
+          autocomplete="off">
+          <div class="form-group">
+            <label  class="control-label" style="margin-right: 10px;">Currency: </label>
+            <label class="radio-inline">
+              <input type="radio" value='1' [formControl]='DForm.controls["CurrencyId"]' class="ml-3"> USD
+            </label>
+            <label class="radio-inline">
+              <input type="radio"  value='2' [formControl]='DForm.controls["CurrencyId"]' class="ml-3"> EURO
+            </label>
+            <label class="radio-inline">
+              <input type="radio" value='3' [formControl]='DForm.controls["CurrencyId"]' class="ml-3"> STG
+            </label>
+            <label class="radio-inline">
+              <input type="radio" value='4' [formControl]='DForm.controls["CurrencyId"]' class="ml-3"> TL
+            </label>
+          </div>
+          <app-text-input [formControl]='DForm.controls["cardNumber"]'
+            [label]='"cardNumber"'></app-text-input>
+
+          <app-text-input [formControl]='DForm.controls["CVV"]'
+            [label]='"CVV"'></app-text-input>
+
+
+          <app-text-input [formControl]='DForm.controls["Amount"]'
+            [label]='"Amount"'></app-text-input>
+
+
+          <div class="row" *ngIf="validationErrors.length > 0">
+            <ul class="text-danger">
+              <li *ngFor="let error of validationErrors">
+                {{error}}
+              </li>
+            </ul>
+        </div>
+
+        <div class="form-group text-center">
+          <button  [disabled]='!DForm.valid' class="btn btn-success mr-2" type="submit">Deposite</button>
+          <button class="btn btn-default mr-2" (click)="cancel()" type="button">Cancel</button>
+        </div>
+        </form>
+        <hr>
+        <h4>WithDraw</h4>
+        <form class="col-6" [formGroup]='WForm'
+        (ngSubmit)="WForm.valid && WithDraw()"
+        autocomplete="off">
+        <!-- <div class="form-group">
+          <label  class="control-label" style="margin-right: 10px;">Currency: </label>
+          <label class="radio-inline">
+            <input type="radio" value='1' [formControl]='WForm.controls["CurrencyId"]' class="ml-3"> USD
+          </label>
+          <label class="radio-inline">
+            <input type="radio"  value='2' [formControl]='WForm.controls["CurrencyId"]' class="ml-3"> EURO
+          </label>
+          <label class="radio-inline">
+            <input type="radio" value='3' [formControl]='WForm.controls["CurrencyId"]' class="ml-3"> STG
+          </label>
+          <label class="radio-inline">
+            <input type="radio" value='4' [formControl]='WForm.controls["CurrencyId"]' class="ml-3"> TL
+          </label>
+        </div> -->
+        <app-text-input [formControl]='WForm.controls["BankAccountNumber"]'
+          [label]='"BankAccountNumber"'></app-text-input>
+
+        <app-text-input [formControl]='WForm.controls["Amount"]'
+          [label]='"Amount"'></app-text-input>
+
+
+        <div class="row" *ngIf="validationErrorsForWithDraw.length > 0">
+          <ul class="text-danger">
+            <li *ngFor="let error of validationErrorsForWithDraw">
+              {{error}}
+            </li>
+          </ul>
+      </div>
+
+      <div class="form-group text-center">
+        <button  [disabled]='!WForm.valid' class="btn btn-success mr-2" type="submit">WithDraw</button>
+        <button class="btn btn-default mr-2" (click)="cancelWithDraw()" type="button">Cancel</button>
+      </div>
+      </form>
+
+        <!-- <form class="needs-validation was-validated" novalidate="">
+
+          <h4 class="mb-3">Deposite</h4>
+
+          <div class="row">
+            <div class="col-md-6 mb-3">
+              <label for="cc-number">Credit card number</label>
+              <input type="text" class="form-control" id="cc-number" placeholder="" required="">
+              <div class="invalid-feedback">
+                Credit card number is required
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-3 mb-3">
+              <label for="cc-cvv">CVV</label>
+              <input type="text" class="form-control" id="cc-cvv" placeholder="" required="">
+              <div class="invalid-feedback">
+                Security code required
+              </div>
+            </div>
+            <div class="col-md-3 mb-3">
+              <label for="cc-amount">Amount</label>
+              <input type="text" class="form-control" id="cc-amount" placeholder="" required="">
+              <div class="invalid-feedback">
+                Amount required
+              </div>
+            </div>
+          </div>
+          <hr class="mb-4">
+          <button class="btn btn-primary btn-lg btn-block" type="submit">Continue to checkout</button>
+        </form> -->
+
+      </tab>
+      <tab heading='Deposit History' class="p-1">
+        <div class="form-group">
+          <label  class="control-label" style="margin-right: 10px;">Sort In:</label>
+          <label class="radio-inline">
+            <input type="radio" value='Ascending' [(ngModel)]="SortingStatusDeposite" class="ml-3"> Ascending
+          </label>
+          <label class="radio-inline">
+            <input type="radio" value='Descending' [(ngModel)]="SortingStatusDeposite" class="ml-3"> Descending
+          </label>
+        </div>
+
+        <div class="form-group row">
+          <label for="pagesize" class="col-sm-1 col-form-label">Page Szie</label>
+          <div class="col-sm-1">
+            <input [(ngModel)]="pageSizeDeposite" type="text" class="form-control mt-2" id="pagesize" placeholder="">
+          </div>
+        </div>
+
+        <button type="submit" class="btn btn-success col-2 ml-1 mb-2" (click)="getDepositeHistory()">Search</button>
+
+        <table class="table">
+          <thead class="thead-dark">
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Id</th>
+              <th scope="col">Method</th>
+              <th scope="col">Date</th>
+              <th scope="col">Currency</th>
+              <th scope="col">CurrencyValue</th>
+              <th scope="col">Amount</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let rec of Depositehistory let i = index;">
+              <th scope="row">{{i+1}}</th>
+              <td>{{rec.Id}}</td>
+              <td>{{rec.Method}}</td>
+              <td>{{rec.Date | date: 'dd/MM/yyyy'}}</td>
+              <td>{{rec.Currency}}</td>
+              <td>{{rec.CurrencyValue}}</td>
+              <td>{{rec.Amount}}</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="d-flex justify-content-center" *ngIf="paginationDeposite">
+
+          <pagination
+              [boundaryLinks]="true"
+              [totalItems]="paginationDeposite.totalCount"
+              [itemsPerPage]="paginationDeposite.pageSize"
+              [(ngModel)]="paginationDeposite.currentPage"
+              (pageChanged)="pageChanged($event)"
+              previousText="&lsaquo;"
+              nextText="&rsaquo;"
+              firstText="&laquo;"
+              lastText="&raquo;">
+          </pagination>
+
+        </div>
+      </tab>
+      <tab heading='Bet History' class="p-1">
+
+        <div class="form-group">
+          <label  class="control-label" style="margin-right: 10px;">Sort In:</label>
+          <label class="radio-inline">
+            <input type="checkbox" value='Descending' [(ngModel)]="SortingStatus" class="ml-3"> Descending
+          </label>
+          <label class="radio-inline">
+            <input type="radio" value='Won' [(ngModel)]="SearchQuery" class="ml-3"> Won
+          </label>
+          <label class="radio-inline">
+            <input type="radio" value='Lost' [(ngModel)]="SearchQuery" class="ml-3"> Lost
+          </label>
+          <label class="radio-inline">
+            <input type="radio" value='All' [(ngModel)]="SearchQuery" class="ml-3"> All
+          </label>
+        </div>
+
+        <div class="form-group row">
+          <label for="pagesize" class="col-sm-1 col-form-label">Page Szie</label>
+          <div class="col-sm-1">
+            <input [(ngModel)]="pageSize" type="text" class="form-control mt-2" id="pagesize1" placeholder="">
+          </div>
+        </div>
+
+        <button type="submit" class="btn btn-success col-2 ml-1 mb-2" (click)="getBetHistory()">Search</button>
+
+        <table class="table">
+          <thead class="thead-dark">
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Side</th>
+              <th scope="col">Runner Name</th>
+              <th scope="col">Stake</th>
+              <th scope="col">Odds</th>
+              <th scope="col">Teams</th>
+              <th scope="col">Creation Date</th>
+              <th scope="col">Status</th>
+              <th scope="col">Market Name</th>
+              <th scope="col">Lalaibelty</th>
+              <th scope="col">Profit</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let rec of bethistory let i = index;">
+              <th scope="row">{{i+1}}</th>
+              <td>{{rec.Side}}</td>
+              <td>{{rec.RunnerName}}</td>
+              <td>{{rec.stake}}</td>
+              <td>{{rec.Odds}}</td>
+              <td>{{rec.Teams}}</td>
+              <td>{{rec.CreationDate}}</td>
+              <td>{{rec.Status}}</td>
+              <td>{{rec.MarketName}}</td>
+              <td>{{rec.Lalaibelty}}</td>
+              <td>{{rec.Profit}}</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="d-flex justify-content-center" *ngIf="betPagination">
+
+          <pagination
+              [boundaryLinks]="true"
+              [totalItems]="betPagination.totalCount"
+              [itemsPerPage]="betPagination.pageSize"
+              [(ngModel)]="betPagination.currentPage"
+              (pageChanged)="pageChanged($event)"
+              previousText="&lsaquo;"
+              nextText="&rsaquo;"
+              firstText="&laquo;"
+              lastText="&raquo;">
+          </pagination>
+
+        </div>
+
+      </tab>
+      <tab heading='WithDraw History' class="p-1">
+        <div class="form-group">
+          <label  class="control-label" style="margin-right: 10px;">Sort In:</label>
+          <label class="radio-inline">
+            <input type="radio" value='Ascending' [(ngModel)]="SortingStatusWithDraw" class="ml-3"> Ascending
+          </label>
+          <label class="radio-inline">
+            <input type="radio" value='Descending' [(ngModel)]="SortingStatusWithDraw" class="ml-3"> Descending
+          </label>
+        </div>
+
+        <div class="form-group row">
+          <label for="pagesize" class="col-sm-1 col-form-label">Page Szie</label>
+          <div class="col-sm-1">
+            <input [(ngModel)]="pageSizeWithDraw" type="text" class="form-control mt-2" id="pagesize2" placeholder="">
+          </div>
+        </div>
+
+        <button type="submit" class="btn btn-success col-2 ml-1 mb-2" (click)="getWithDrawHistory()">Search</button>
+
+        <table class="table">
+          <thead class="thead-dark">
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Amount</th>
+              <th scope="col">Date And Time</th>
+              <th scope="col">BankAccountNo</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let rec of WithDrawhistory let i = index;">
+              <th scope="row">{{i+1}}</th>
+              <td>{{rec.Amount}}</td>
+              <td>{{rec.Date | date: 'dd/MM/yyyy'}}</td>
+              <td>{{rec.BankAccountNo}}</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="d-flex justify-content-center" *ngIf="paginationWithDraw">
+
+          <pagination
+              [boundaryLinks]="true"
+              [totalItems]="paginationWithDraw.totalCount"
+              [itemsPerPage]="paginationWithDraw.pageSize"
+              [(ngModel)]="paginationWithDraw.currentPage"
+              (pageChanged)="pageChanged($event)"
+              previousText="&lsaquo;"
+              nextText="&rsaquo;"
+              firstText="&laquo;"
+              lastText="&raquo;">
+          </pagination>
+
+        </div>
+      </tab>
+      <tab heading='Update Password' class="p-1">
+
+        <form class="col-6" [formGroup]='UForm'
+            (ngSubmit)="UForm.valid && updatePassword()"
+            autocomplete="off">
+
+        <app-text-input [formControl]='UForm.controls["oldPassword"]'
+          [label]='"oldPassword"'></app-text-input>
+
+        <app-text-input [formControl]='UForm.controls["newPassword"]'
+          [label]='"newPassword"'></app-text-input>
+
+
+        <app-text-input [formControl]='UForm.controls["confirmPassword"]'
+          [label]='"confirmPassword"'></app-text-input>
+
+
+          <div class="row" *ngIf="validationErrorsForUpdatePassword.length > 0">
+            <ul class="text-danger">
+              <li *ngFor="let error of validationErrorsForUpdatePassword">
+                {{error}}
+              </li>
+            </ul>
+        </div>
+
+        <div class="form-group text-center">
+          <button  [disabled]='!UForm.valid' class="btn btn-success mr-2" type="submit">Update</button>
+          <button class="btn btn-default mr-2" (click)="cancelUpdatePassword()" type="button">Cancel</button>
+        </div>
+        </form>
+
+      </tab>
+    </tabset>
+  </div>
+
+</div>

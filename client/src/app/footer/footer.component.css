@@ -1,0 +1,26 @@
+footer{
+  position: fixed;
+  bottom: 0;
+  left:0;
+  width: 100%;
+}
+.my-scrollbar {
+
+  --scrollbar-border-radius: 4px;
+   --scrollbar-hieght: 10px;
+  --scrollbar-padding: 4px;
+  --scrollbar-viewport-margin: 0;
+  --scrollbar-size: 4px;
+  --scrollbar-hover-size: var(--scrollbar-size);
+
+  --scrollbar-track-color: #7d7d7d;
+  --scrollbar-wrapper-color: transparent;
+
+  --scrollbar-thumb-height: 10px;
+  --scrollbar-thumb-color: #292929;
+  --scrollbar-thumb-hover-color:#393939;
+
+  --scrollbar-thumb-transition: height ease-out 150ms, width ease-out 150ms;
+  --scrollbar-track-transition: height ease-out 150ms, width ease-out 150ms;
+}
+

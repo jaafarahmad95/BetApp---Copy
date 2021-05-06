@@ -1,0 +1,204 @@
+<!-- <h2>Admin Panel</h2>
+<div class="tab-panel">
+    <tabset class="member-tabset">
+        <tab heading='User management' *appHasRole='["Admin"]'>
+            <div class="container">
+
+            </div>
+        </tab>
+    </tabset>
+</div>
+ -->
+ <div class="col-12">
+  <tabset class="member-tabset" >
+    <tab heading='All Users' class="p-1">
+
+      <div class="form-group">
+        <label  class="control-label" style="margin-right: 10px;">Sort In:</label>
+        <label class="radio-inline">
+          <input type="radio" value='Ascending' [(ngModel)]="SortingStatus"> Ascending
+        </label>
+        <label class="radio-inline">
+          <input type="radio" value='Descending' [(ngModel)]="SortingStatus" class="ml-3"> Descending
+        </label>
+      </div>
+
+      <div class="form-group row">
+        <label for="pagesize" class="col-sm-1 col-form-label">Page Szie</label>
+        <div class="col-sm-1">
+          <input [(ngModel)]="pageSize" type="text" class="form-control" id="pagesize" placeholder="">
+
+        </div>
+        <button type="submit" class="btn btn-info ml-1" (click)="Search()">Search</button>
+      </div>
+
+      <div class="input-group col-6 mb-2 pl-0">
+        <input [(ngModel)]="SearchQuery" class="form-control" type="text" placeholder="Search For user by name">
+        <button type="submit" class="btn btn-info ml-1" (click)="Search()">Search</button>
+      </div>
+
+
+      <table class="table">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Id</th>
+            <th scope="col">First Name</th>
+            <th scope="col">Lastname</th>
+            <th scope="col">Email</th>
+            <th scope="col">Country</th>
+            <th scope="col">City</th>
+            <th scope="col">Currency</th>
+            <th scope="col">PersonalId</th>
+            <th scope="col">Birthdate</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let member of members let i = index;">
+            <th scope="row">{{i+1}}</th>
+            <td>{{member.Id}}</td>
+            <td>{{member.Name}}</td>
+            <td>{{member.LastName}}</td>
+            <td>{{member.Email}}</td>
+            <td>{{member.City}}</td>
+            <td>{{member.Country}}</td>
+            <td>{{member.Currency}}</td>
+            <td>{{member.PersonalID}}</td>
+            <td>{{member.birthdate | date: 'd MM y GGGG':'GMT'}}</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="d-flex justify-content-center" *ngIf="pagination">
+
+        <pagination
+            [boundaryLinks]="true"
+            [totalItems]="pagination.totalCount"
+            [itemsPerPage]="pagination.pageSize"
+            [(ngModel)]="pagination.currentPage"
+            (pageChanged)="pageChanged($event)"
+            previousText="&lsaquo;"
+            nextText="&rsaquo;"
+            firstText="&laquo;"
+            lastText="&raquo;">
+        </pagination>
+
+      </div>
+
+    </tab>
+
+    <tab heading='Add Admin' class="p-1">
+
+      <form class="col-4" [formGroup]='xForm'
+      (ngSubmit)="xForm.valid && creatAdmin()"
+      autocomplete="off">
+        <app-text-input [formControl]='xForm.controls["name"]'
+          [label]='"First Name"'></app-text-input>
+
+        <app-text-input [formControl]='xForm.controls["lastname"]'
+          [label]='"Last Name"'></app-text-input>
+
+
+        <app-text-input [formControl]='xForm.controls["username"]'
+          [label]='"Username"'></app-text-input>
+
+        <app-text-input [formControl]='xForm.controls["email"]'
+          [label]='"Email"'></app-text-input>
+
+        <app-text-input [formControl]='xForm.controls["password"]'
+          [label]='"Password"' [type]='"password"'></app-text-input>
+
+        <app-text-input [formControl]='xForm.controls["confirmPassword"]'
+          [label]='"Confirm Password"' [type]='"password"'></app-text-input>
+
+          <div class="row" *ngIf="validationErrors.length > 0">
+            <ul class="text-danger">
+              <li *ngFor="let error of validationErrors">
+                {{error}}
+              </li>
+            </ul>
+        </div>
+
+        <div class="form-group text-center">
+          <button [disabled]='!xForm.valid' class="btn btn-success mr-2" type="submit">Create</button>
+          <button class="btn btn-default mr-2" (click)="cancel()" type="button">Cancel</button>
+        </div>
+      </form>
+
+    </tab>
+
+    <tab heading='User Analyze' class="p-1">
+
+      <div class="form-group row">
+        <label for="" class="col-sm-1 col-form-label">Username</label>
+        <div class="col-sm-1">
+          <input type="text" class="form-control" [(ngModel)]="AnalyzeName">
+        </div>
+        <button type="submit" [disabled]='AnalyzeName===""' class="btn btn-info ml-1" (click)="getUserState()">Analyze</button>
+      </div>
+
+      <table class="table" *ngIf="userAnalyze">
+        <thead class="thead-dark text-center">
+          <tr>
+            <th scope="col">Country</th>
+            <th scope="col">birthdate</th>
+            <th scope="col">Currency</th>
+            <th scope="col">No.PlacedBets</th>
+            <th scope="col">No.WonBets</th>
+            <th scope="col">AvgStake</th>
+            <th scope="col">Highist Stake</th>
+            <th scope="col">CurrentBalance</th>
+            <th scope="col">Least Deposit</th>
+            <th scope="col">Highist Deposit</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>{{userAnalyze.country}}</td>
+            <td>{{userAnalyze.birthdate | date: 'd MM y GGGG':'GMT'}}</td>
+            <td>{{userAnalyze.currency}}</td>
+            <td>{{userAnalyze.numberofPlacedBets}}</td>
+            <td>{{userAnalyze.noOfWonBet}}</td>
+            <td>{{userAnalyze.avgStake}}</td>
+            <td>{{userAnalyze.highistStake}}</td>
+            <td>{{userAnalyze.currentBalance}}</td>
+            <td>{{userAnalyze.latestDeposit}}</td>
+            <td>{{userAnalyze.highistDeposit}}</td>
+          </tr>
+        </tbody>
+      </table>
+
+    </tab>
+
+    <tab heading='Update Currency' class="p-1">
+      <div class="form-group">
+        <label  class="control-label" style="margin-right: 10px;">Choose Curreny: </label>
+        <label class="radio-inline">
+          <input type="radio" value='1' [(ngModel)]="chooseCurrency"> USD
+        </label>
+        <label class="radio-inline">
+          <input type="radio" value='2' [(ngModel)]="chooseCurrency" class="ml-3"> EURO
+        </label>
+        <label class="radio-inline">
+          <input type="radio" value='3' [(ngModel)]="chooseCurrency" class="ml-3"> STG
+        </label>
+        <label class="radio-inline">
+          <input type="radio" value='4' [(ngModel)]="chooseCurrency" class="ml-3"> TL
+        </label>
+      </div>
+
+      <div class="form-group row">
+        <label for="" class="col-sm-1 col-form-label">value</label>
+        <div class="col-sm-1">
+          <input type="text" class="form-control" [(ngModel)]="currencyValue">
+        </div>
+
+        <button type="submit" [disabled]='!(chooseCurrency && currencyValue)' class="btn btn-info ml-1" (click)="updateCurrency()">Update</button>
+      </div>
+
+
+
+    </tab>
+
+  </tabset>
+</div>

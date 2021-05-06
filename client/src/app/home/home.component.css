@@ -1,0 +1,43 @@
+.my-scrollbar {
+
+  --scrollbar-border-radius: 4px;
+   --scrollbar-hieght: 10px;
+  --scrollbar-padding: 0px;
+  --scrollbar-viewport-margin: 0;
+  --scrollbar-size: 4px;
+  --scrollbar-hover-size: var(--scrollbar-size);
+
+  --scrollbar-track-color: #7d7d7d;
+  --scrollbar-wrapper-color: transparent;
+
+  --scrollbar-thumb-height: 10px;
+  --scrollbar-thumb-color: #292929;
+  --scrollbar-thumb-hover-color:#393939;
+
+  --scrollbar-thumb-transition: height ease-out 150ms, width ease-out 150ms;
+  --scrollbar-track-transition: height ease-out 150ms, width ease-out 150ms;
+
+}
+a ,table{
+  cursor: pointer;
+}
+table td {
+  position: relative;
+}
+table span {
+  color : white;
+}
+table td input {
+  position: absolute;
+  display: block;
+  top:0;
+  left:0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  border: none;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+

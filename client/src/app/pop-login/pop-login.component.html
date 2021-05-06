@@ -1,0 +1,107 @@
+<!--
+<ng-template #template>
+-->
+      <div class="modal-header" style="justify-content: center;">
+
+        <h4 class="modal-title">LogIn</h4>
+      <!--<button type="button" class="close pull-right" aria-label="Close" (click)="modalRef.hide()">
+        <span aria-hidden="true">&times;</span>
+        </button>-->
+      </div>
+
+      <div class="modal-body">
+
+        <form [formGroup]="registerForm" (ngSubmit)="Login()">
+          <!--
+          <app-text-input [formControl]='registerForm.controls["username"]'
+            [label]='"Username"'></app-text-input>
+
+          <app-text-input [formControl]='registerForm.controls["password"]'
+            [label]='"Password"' [type]='"password"'></app-text-input>
+          -->
+          <div class="form-group">
+            <label>Username</label>
+              <div class="input-group">
+
+                <input
+                    [class.is-invalid]="registerForm.get('username').errors
+                    && registerForm.get('username').touched"
+                    type="text"
+                    class="form-control"
+                    placeholder="Username"
+                    formControlName="username"/>
+
+                <div class="input-group-append">
+                  <span class="input-group-text" id="basic-addon1">@</span>
+                </div>
+
+                <div class="invalid-feedback">
+                  Please enter a Username
+                </div>
+
+              </div>
+
+          </div>
+
+
+          <div class="form-group">
+            <label>Password</label>
+
+            <div class="input-group">
+              <input
+                  [class.is-invalid]="registerForm.get('password').errors
+                  && registerForm.get('password').touched"
+                  [type]="fieldTextType ? 'text' : 'password'"
+                  class="form-control"
+                  placeholder="Password"
+                  formControlName="password"/>
+
+              <div class="input-group-append">
+                <span class="input-group-text">
+                  <i
+                  class="fa"
+                  [ngClass]="{
+                    'fa-eye-slash': !fieldTextType,
+                    'fa-eye': fieldTextType}"
+                    (click)="toggleFieldTextType()"
+                  ></i>
+                </span>
+              </div>
+
+              <div *ngIf="registerForm.get('password').hasError('required')" class="invalid-feedback">
+                Please enter a Password
+              </div>
+
+              <div *ngIf="registerForm.get('password').hasError('minlength')" class="invalid-feedback">
+                Password must be at least 8 characters.
+              </div>
+
+              <div *ngIf="registerForm.get('password').hasError('maxlength')" class="invalid-feedback">
+                Password must be at most 12 characters.
+              </div>
+
+            </div>
+
+          </div>
+
+
+
+
+          <button [disabled]='!registerForm.valid' type="submit" class="btn btn-primary mt-2">Login</button>
+          <button class="btn btn-primary mt-2 ml-2" type="button" (click)="LogAsGuest()">As Guset</button>
+        </form>
+
+      </div>
+
+      <div class="modal-footer" style="justify-content:center;">
+        <!--<div class="forgot">
+          <a>ForgotPassword?</a>
+        </div>
+        -->
+        <div class="etc-login-form">
+          <a routerLink='/home' routerLinkActive='active' (click)="hide ()"><p>forgot your password?</p></a>
+          <a routerLink='/register' routerLinkActive='active' (click)="hide ()"><p>new user?</p></a>
+        </div>
+      </div>
+
+<!-- </ng-template> -->

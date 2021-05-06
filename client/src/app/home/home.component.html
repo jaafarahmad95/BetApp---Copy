@@ -1,0 +1,680 @@
+<div class="container-fluid">
+  <!--style="height: 835px;" -->
+  <div class="row" style="height: 848px;">
+    <!-- color background-color: blue;-->
+    <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block sidebar "
+       style="height: 100%; overflow: hiiden; padding-left: 0px; padding-right: 0px;">
+       <ng-scrollbar class="my-scrollbar"
+       appearance="standard"
+       visibility="hover"
+       autoHeightDisabled="true"
+       >
+       <div class="card-header bg-primary" style="color:white;">
+        <span>Regions</span>
+       </div>
+      <!-- color background-color: red;-->
+      <div class="position-sticky card-body py-2" style="cursor: pointer; height:100%;">
+
+        <div *ngFor="let obj of this.RegionComp | keyvalue; let i = index">
+
+          <h6
+          class="sidebar-heading d-flex justify-content-left align-items-center px-2 py-2 "
+          [attr.aria-expanded]="RegionsisCollapsedarr[i]"
+          aria-controls="collapseBasic"
+          (click)="RegionsisCollapsedarr[i] = !RegionsisCollapsedarr[i];
+                   this.collapseCloseOthers(RegionsisCollapsedarr,i);"
+          >
+            {{obj.value.region}}
+          </h6>
+          <ul
+          class="nav flex-column ml-2"
+          id="collapseBasic"
+          [collapse]="!RegionsisCollapsedarr[i]"
+          [isAnimated]="true"
+          >
+            <li class="nav-item" *ngFor="let comp of obj.value.competition">
+              <a class="nav-link active"
+                aria-current="page"
+                (click)="
+                this.urlR = obj.value.region;
+                this.urlC = comp;
+                selected.setSelectedCompetitions(comp);
+                selected.setSelectedRegion(obj.value.region);
+                getMatches(obj.value.region,comp);"
+                routerLink='/{{obj.value.region}}/{{comp}}'
+                >
+                {{comp}}
+              </a>
+            </li>
+          </ul>
+
+        </div>
+
+      </div>
+
+      </ng-scrollbar>
+    </nav>
+    <!-- color background-color: blueviolet;-->
+    <div class="col-md-3 ms-sm-auto col-lg-2 "
+    style="overflow: hidden; height: 100%;
+      padding-left:5px;
+      padding-right:5px;">
+      <ng-scrollbar class="my-scrollbar"
+        appearance="standard"
+        visibility="hover"
+        position="native"
+      >
+      <div class="Rtitle bg-primary p-2 w-100 text-light">
+              <div class="row">
+                  <div class="col-md-9 col-sm-10">
+                    <i>flag</i>
+                    <span class="ml-1">{{this.selected.getSelectedCompetitions()}}</span>
+                  </div>
+                  <div class="col-md-3 col-sm-2 justify-content-right align-items-rigth">
+                      <div class="dropdown" dropdown>
+                        <a class="dropdown-toggle text-light" dropdownToggle>Tools</a>
+                        <div class="dropdown-menu bg-light" *dropdownMenu>
+                          <a class="dropdown-item" routerLink="/">Option1</a>
+                          <a class="dropdown-item" routerLink="/">Option2</a>
+                          <a class="dropdown-item" routerLink="/">Option3</a>
+                          <!-- <div class="dropdown-divider"></div> -->
+                        </div>
+                      </div>
+                  </div>
+              </div>
+
+
+      </div>
+      <!-- on select this the color #7d7d7d Here we add ngx-scroll -->
+
+      <div class="Rcontent w-100 mt-1" style="cursor: pointer; overflow-y: hidden; height: 100%; border-radius: 2px;">
+
+          <!-- here we will use ngFor to show all the games -->
+          <div class="list-group" >
+
+            <div
+            collapseCloseOthersass="list-group-item"
+            style="color: black"
+            *ngFor="let mat of this.matches | keyvalue; let idx = index;"
+            >
+              <h6
+              class="list-item d-flex justify-content-between px-2 py-2"
+              [attr.aria-expanded]="MatchesisCollapsedarr[i]"
+              aria-controls="collapseBasic2"
+
+              (click)="
+              this.selected.setSelectedMatch(mat.value.homeTeam , mat.value.awayTeam);
+              MatchesisCollapsedarr[idx] = !MatchesisCollapsedarr[idx];
+              this.collapseCloseOthers(MatchesisCollapsedarr,idx);
+              this.sendreq(MatchesisCollapsedarr[idx],mat.value.eventId);
+              ">
+               {{mat.value.homeTeam}} VS {{mat.value.awayTeam}}
+              </h6>
+
+              <ul
+                class="nav flex-column"
+                id="collapseBasic2"
+                style="color: black"
+                [collapse]="!MatchesisCollapsedarr[idx]"
+                [isAnimated]="true">
+                <li *ngFor="let market of markets" class="nav-item border-bottom d-flex justify-content-center">
+                  <a class="nav-link"
+                  (click)='
+                  this.selected.selectedMarket = market;
+                  this.visibleCloseOthers(market);
+                  this.getOdds(mat.value.eventId,market);
+
+                  '>
+                    {{market}}
+                  </a>
+                </li>
+              </ul>
+
+            </div>
+
+
+          </div>
+
+      </div>
+
+      </ng-scrollbar>
+
+    </div>
+
+    <div class="col-md-3 ms-sm-auto col-lg-5 "
+    style="height: 100%;
+      overflow: hidden;
+      padding-left: 5px;
+      padding-right: 5px;">
+
+      <div class="Rtitle bg-primary w-100  p-1 text-light">
+          <span>{{this.selected.getSelectedMatch()}}</span>
+          <span class="pull-right py-1" style="cursor: pointer">
+            <div class="dropdown" dropdown>
+              <a class="dropdown-toggle text-light" dropdownToggle>Tools</a>
+              <div class="dropdown-menu bg-light" *dropdownMenu>
+                <a class="dropdown-item" routerLink="/">Option1</a>
+                <a class="dropdown-item" routerLink="/">Option2</a>
+                <a class="dropdown-item" routerLink="/">Option3</a>
+                <!-- <div class="dropdown-divider"></div> -->
+              </div>
+            </div>
+          </span>
+
+          <div>
+          <i>flag </i>
+          <span class="text-muted">
+            {{this.selected.getSelectedRegion()}}  {{this.selected.getSelectedCompetitions()}}
+          </span>
+          </div>
+
+      </div>
+
+      <ng-scrollbar class="my-scrollbar"
+        appearance="standard"
+        visibility="hover"
+        position="native">
+
+        <!-- on select this the color #7d7d7d-->
+        <div class="Rcontent w-100 mt-1" style="cursor: pointer; ">
+
+          <!-- here we will Match Result -->
+          <div class="matchResult mb-1" *ngIf="this.selected.visibleMarkets['Match Result'] && !this.getSuspendStatus()">
+              <div
+              class="card-header bg-primary d-flex justify-content-center"
+              style="color: white;"
+              role="button">
+              <h6>Match Result</h6>
+              </div>
+
+              <div class="table-responsive myt bg-secondary d-flex"
+              style="color: white;
+              ">
+                <table class="table table-bordered table-hover table-sm mb-0" style="text-align:center;">
+                <thead>
+                  <tr class="d-flex">
+                    <th class="col-4 d-flex justify-content-center align-items-center"><span>Runner</span></th>
+                    <th class="col d-flex justify-content-center align-items-center"></th>
+                    <th class="col d-flex justify-content-center align-items-center"></th>
+                    <th
+                    class="col d-flex justify-content-center align-items-center"
+                    style="background-color: rgb(74, 119, 202);"
+                    (click)="backAll(this.selected.selectedMarket);activePlaceBets();"
+                    ><span>Back all</span></th>
+                    <th
+                    class="col d-flex justify-content-center align-items-center"
+                    style="background-color: rgb(212, 90, 90);"
+                    (click)="layAll(this.selected.selectedMarket);activePlaceBets();"
+                    ><span>Lay all</span></th>
+                    <th class="col d-flex justify-content-center align-items-center"></th>
+                    <th class="col d-flex justify-content-center align-items-center"></th>
+                  </tr>
+                </thead>
+                <tbody>
+
+                  <tr class="d-flex" *ngFor="let lay of getEditedLayOdd() ; let idx = index">
+                    <td class="col-4 d-flex  justify-content-center align-items-center "><span>{{lay.runnerName}}</span></td>
+
+                    <td *ngFor="let backcol of this.getEditedBackOdd()[idx].odds; let i =index"
+                        class="col d-flex flex-column justify-content-center align-items-center"
+                        (click)="this.addToBackBetSlip(backcol,this.selected.selectedMarket
+                                  ,0,this.getEditedBackOdd()[idx],this.selected.selectedEventId);
+                                  activePlaceBets();">
+                      <span>{{backcol}}</span>
+                      <span *ngIf="backcol">&#8378;{{this.getEditedBackOdd()[idx].liquidity}}</span>
+                    </td>
+
+                    <td *ngFor="let laycol of this.getEditedLayOdd()[idx].odds; let i =index"
+                        class="col d-flex flex-column justify-content-center align-items-center "
+                        (click)="this.addToLayBetSlip(laycol,this.selected.selectedMarket
+                                  ,0,this.getEditedLayOdd()[idx],this.selected.selectedEventId);
+                                  activePlaceBets();">
+                      <span>{{laycol}}</span>
+                      <span *ngIf="laycol">&#8378;{{this.getEditedLayOdd()[idx].liquidity}}</span>
+                    </td>
+
+                  </tr>
+
+                </tbody>
+                </table>
+              </div>
+
+          </div>
+
+          <div class="doubleChance mb-1" *ngIf="this.selected.visibleMarkets['Double Chance'] && !this.getSuspendStatus()">
+            <div
+              class="card-header bg-primary d-flex justify-content-center"
+              style="color: white"
+              role="button"
+              >
+              <h6 class="">Double Chance</h6>
+            </div>
+            <div class="table-responsive bg-secondary d-flex"
+            style=" color: white"
+            >
+            <table class="table table-bordered table-hover table-sm mb-0" style="text-align:center;">
+                <thead>
+                  <tr class="d-flex">
+                    <th class="col-4 d-flex justify-content-center align-items-center"><span>Runner</span></th>
+                    <th class="col d-flex justify-content-center align-items-center"></th>
+                    <th class="col d-flex justify-content-center align-items-center"></th>
+                    <th class="col d-flex justify-content-center align-items-center"
+                    style="background-color: rgb(74, 119, 202);"
+                    (click)="backAll(this.selected.selectedMarket);activePlaceBets();"
+                    ><span>Back all</span></th>
+                    <th class="col d-flex justify-content-center align-items-center"
+                    style="background-color: rgb(212, 90, 90);"
+                    (click)="layAll(this.selected.selectedMarket);activePlaceBets();"
+                    ><span>Lay all</span></th>
+                    <th class="col d-flex justify-content-center align-items-center"></th>
+                    <th class="col d-flex justify-content-center align-items-center"></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="d-flex" *ngFor="let lay of getEditedLayOdd() ; let idx = index">
+                    <td class="col-4 d-flex justify-content-center align-items-center"><sapn>{{lay.runnerName}}</sapn></td>
+                    <td *ngFor="let backcol of this.getEditedBackOdd()[idx].odds"
+                    class="col d-flex flex-column justify-content-center align-items-center"
+                    (click)="this.addToBackBetSlip(backcol,this.selected.selectedMarket,
+                              0,this.getEditedBackOdd()[idx],this.selected.selectedEventId);
+                              activePlaceBets();">
+                      <span>{{backcol}}</span>
+                      <span *ngIf="backcol">&#8378;{{this.getEditedBackOdd()[idx].liquidity}}</span>
+                    </td>
+                    <td *ngFor="let laycol of this.getEditedLayOdd()[idx].odds"
+                    class="col d-flex flex-column justify-content-center align-items-center"
+                    (click)="this.addToLayBetSlip(laycol,this.selected.selectedMarket,
+                            0,this.getEditedLayOdd()[idx],this.selected.selectedEventId);
+                            activePlaceBets();">
+                      <span>{{laycol}}</span>
+                      <span *ngIf="laycol">&#8378;{{this.getEditedLayOdd()[idx].liquidity}}</span>
+                    </td>
+                  </tr>
+                </tbody>
+            </table>
+            </div>
+          </div>
+
+          <div class="totalGoals mb-1" *ngIf="this.selected.visibleMarkets['Total Goals'] && !this.getSuspendStatus()">
+            <div
+              class="card-header bg-primary d-flex justify-content-center"
+              style=" color: white"
+              role="button"
+              >
+              <h6 class="">Total Goals</h6>
+            </div>
+            <div class="table-responsive bg-secondary d-flex"
+            style=" color: white"
+            >
+            <table class="table table-bordered table-hover table-sm mb-0" style="text-align:center;">
+                <thead>
+                  <tr class="d-flex">
+                    <th class="col-4 d-flex justify-content-center align-items-center"><span>Runner</span></th>
+                    <th class="col d-flex justify-content-center align-items-center"></th>
+                    <th class="col d-flex justify-content-center align-items-center"></th>
+                    <th class="col d-flex justify-content-center align-items-center"
+                    style="background-color: rgb(74, 119, 202);"
+                    (click)="backAll(this.selected.selectedMarket);activePlaceBets();"><span>Back all</span></th>
+                    <th class="col d-flex justify-content-center align-items-center"
+                    style="background-color: rgb(212, 90, 90);"
+                    (click)="layAll(this.selected.selectedMarket);activePlaceBets();"><span>Lay all</span></th>
+                    <th class="col d-flex justify-content-center align-items-center"></th>
+                    <th class="col d-flex justify-content-center align-items-center"></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="d-flex" *ngFor="let lay of getEditedLayOdd() ; let idx = index">
+                    <td class="col-4 d-flex justify-content-center align-items-center"><sapn>{{lay.runnerName}}</sapn></td>
+                    <td *ngFor="let backcol of this.getEditedBackOdd()[idx].odds"
+                    class="col d-flex flex-column justify-content-center align-items-center"
+                    (click)="this.addToBackBetSlip(backcol,this.selected.selectedMarket,
+                              0,this.getEditedBackOdd()[idx],this.selected.selectedEventId);
+                              activePlaceBets();">
+                      <span>{{backcol}}</span>
+                      <span *ngIf="backcol">&#8378;{{this.getEditedBackOdd()[idx].liquidity}}</span>
+                    </td>
+                    <td *ngFor="let laycol of this.getEditedLayOdd()[idx].odds"
+                    class="col d-flex flex-column justify-content-center align-items-center"
+                    (click)="this.addToLayBetSlip(laycol,this.selected.selectedMarket,
+                              0,this.getEditedLayOdd()[idx],this.selected.selectedEventId);
+                              activePlaceBets();">
+                      <span>{{laycol}}</span>
+                      <span *ngIf="laycol">&#8378;{{this.getEditedLayOdd()[idx].liquidity}}</span>
+                    </td>
+                  </tr>
+                </tbody>
+            </table>
+            </div>
+          </div>
+
+          <div class="bothTeamToScore mb-1" *ngIf="this.selected.visibleMarkets['Both Teams to Score'] && !this.getSuspendStatus()">
+            <div
+              class="card-header d-flex bg-primary justify-content-center"
+              style=" color: white"
+              role="button"
+              >
+              <h6 class="">Both Team To Score</h6>
+            </div>
+            <div class="table-responsive d-flex bg-secondary"
+            style="color: white"
+            >
+            <table class="table table-bordered table-hover table-sm mb-0" style="text-align:center;">
+                <thead>
+                  <tr class="d-flex">
+                    <th class="col-4 d-flex justify-content-center align-items-center"><span>Runner</span></th>
+                    <th class="col d-flex justify-content-center align-items-center"></th>
+                    <th class="col d-flex justify-content-center align-items-center"></th>
+                    <th class="col d-flex justify-content-center align-items-center"
+                    style="background-color: rgb(74, 119, 202);"
+                    (click)="backAll(this.selected.selectedMarket);activePlaceBets();"
+                    ><span>Back all</span></th>
+                    <th class="col d-flex justify-content-center align-items-center"
+                    style="background-color: rgb(212, 90, 90);"
+                    (click)="layAll(this.selected.selectedMarket);activePlaceBets();"><span>Lay all</span></th>
+                    <th class="col d-flex justify-content-center align-items-center"></th>
+                    <th class="col d-flex justify-content-center align-items-center"></th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="d-flex" *ngFor="let lay of getEditedLayOdd() ; let idx = index">
+                    <td class="col-4 d-flex justify-content-center align-items-center"><span>{{lay.runnerName}}</span></td>
+                    <td *ngFor="let backcol of this.getEditedBackOdd()[idx].odds"
+                    class="col d-flex flex-column justify-content-center align-items-center"
+                    (click)="this.addToBackBetSlip(backcol,this.selected.selectedMarket,
+                              0,this.getEditedBackOdd()[idx],this.selected.selectedEventId);
+                              activePlaceBets();">
+                      <span>{{backcol}}</span>
+                      <span *ngIf="backcol">&#8378;{{this.getEditedBackOdd()[idx].liquidity}}</span>
+                    </td>
+                    <td *ngFor="let laycol of this.getEditedLayOdd()[idx].odds"
+                    class="col d-flex flex-column justify-content-center align-items-center"
+                    (click)="this.addToLayBetSlip(laycol,this.selected.selectedMarket,
+                              0,this.getEditedLayOdd()[idx],this.selected.selectedEventId);
+                              activePlaceBets();">
+                      <span>{{laycol}}</span>
+                      <span *ngIf="laycol">&#8378;{{this.getEditedLayOdd()[idx].liquidity}}</span>
+                    </td>
+                  </tr>
+                </tbody>
+            </table>
+
+            </div>
+          </div>
+
+          <div *ngIf="this.getSuspendStatus()" class="bg-secondary" style="
+                  opacity: .8;
+                  height: 250px;
+                  ">
+                  <h3 class="d-flex justify-content-center align-items-center " style="color:red; padding: 100px;">Suspended</h3>
+          </div>
+
+        </div>
+      </ng-scrollbar>
+
+    </div>
+
+    <!-- color  background-color: aqua;-->
+    <nav id="sidebarMenu" class="col-md-3 col-lg-3 d-md-block  sidebar "
+    style="height: 100%;
+    overflow: hidden;
+    padding-left: 0px;
+    padding-right: 0px;">
+
+      <ng-scrollbar class="my-scrollbar"
+      appearance="standard"
+      visibility="hover"
+      autoHeightDisabled="true"
+     >
+      <div class="position-sticky">
+        <div class="card-header bg-primary d-flex align-items-center justify-content-center" style="color:white; border-radius: 0%;">
+          <h6>BET SLIP</h6>
+        </div>
+
+        <tabset class="member-tabset" #betSlipTabs>
+
+          <tab heading='Place Bets' class="p-1">
+
+            <div class="card">
+
+                <div class="card-header bg-secondary text-white text-center">
+                  <span>Current odds bets</span>
+                </div>
+
+                <div class="card-body p-0">
+
+                    <table *ngIf="betSlipBack.length > 0" class="table table-bordered table-hover table-sm mb-1" style="text-align:center;" >
+                      <thead>
+                        <tr class="d-flex">
+                          <th class="col-4 d-flex justify-content-center align-items-center">Back (Bet For)</th>
+                          <th class="col d-flex justify-content-center align-items-center">Odds</th>
+                          <th class="col d-flex justify-content-center align-items-center">Stake</th>
+                          <th class="col d-flex justify-content-center align-items-center">Profit</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <div *ngFor="let backOdds of betSlipBack | keyvalue; let i = index;" >
+                          <tr class="col d-flex justify-content-center align-items-center">{{backOdds.value.teams}}</tr>
+                          <tr class="d-flex">
+                            <td class="col-4 d-flex justify-content-center align-items-center" style="border-top: none;">
+                              <div class="close" (click)="onCloseClick(i,betSlipBack)">&times;</div>
+                              <div class="">{{backOdds.value.runnerName}}</div>
+                            </td>
+                            <td class="col d-flex justify-content-center align-items-center" style="border-top: none;"><input type="number" [(ngModel)]="backOdds.value.odds" value='{{backOdds.value.odds}}'></td>
+                            <td class="col d-flex justify-content-center align-items-center" style="border-top: none;"><input type="number" [(ngModel)]="backOdds.value.stake" value='{{backOdds.value.stake}}'></td>
+                            <td class="col d-flex justify-content-center align-items-center" style="border-top: none;">{{RoundValue((backOdds.value.odds * backOdds.value.stake) - backOdds.value.stake)}}&#8378;</td>
+                          </tr>
+                        </div>
+
+                      </tbody>
+                    </table>
+
+                    <table *ngIf="betSlipLay.length > 0" class="table table-bordered table-hover table-sm mb-1" style="text-align:center;">
+                      <thead>
+                        <tr class="d-flex">
+                          <th class="col-4 d-flex justify-content-center align-items-center">Lay (Bet Against)</th>
+                          <th class="col d-flex justify-content-center align-items-center">Odds</th>
+                          <th class="col d-flex justify-content-center align-items-center">Stake</th>
+                          <th class="col d-flex justify-content-center align-items-center">Liability</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <div *ngFor="let layOdds of betSlipLay | keyvalue; let i = index;" >
+                          <tr class="col d-flex justify-content-center align-items-center">{{layOdds.value.teams}}</tr>
+                          <tr class="d-flex">
+                            <div>{{layOdds.teams}}</div>
+                            <td class="col-4 d-flex justify-content-center align-items-center">
+                              <div class="close" (click)="onCloseClick(i,betSlipLay)">&times;</div>
+                              <div>{{layOdds.value.runnerName}}</div>
+                            </td>
+                            <td class="col d-flex justify-content-center align-items-center"><input type="number" [(ngModel)]="layOdds.value.odds" value='{{layOdds.value.odds}}'></td>
+                            <td class="col d-flex justify-content-center align-items-center"><input type="number" [(ngModel)]="layOdds.value.stake" value='{{layOdds.value.stake}}'></td>
+                            <td class="col d-flex justify-content-center align-items-center">{{RoundValue(((layOdds.value.odds * layOdds.value.stake) - layOdds.value.stake))}}&#8378;</td>
+                          </tr>
+                        </div>
+                      </tbody>
+                    </table>
+                </div>
+
+                <div class="card-footer p-1">
+                    <!-- <div class="text-right"><p>Liability: <strong>£0.00</strong></p></div> -->
+                    <div class="d-flex justify-content-between">
+                      <button
+                      type="button"
+                      class="btn btn-primary"
+                      (click)='clearBetSlip()'
+                      >Cancell All Selections</button>
+                      <button
+                      type="button"
+                      class="btn btn-warning"
+                      [disabled]="(this.betSlipLay.length + this.betSlipBack.length) == 0"
+                      (click)=' placeBetCheck();
+                                PlaceClick();'
+                      >Place Bets</button>
+
+                    </div>
+                    <!-- <div class="invalid-feedback"></div> -->
+                    <div *ngIf="getWarning()"
+                    style="width: 100%;
+                    margin-top: .25rem;
+                    font-size: 80%;
+                    color: #dc3545;">
+                      Please check if a stake is zero or a lay odd is bigger than back odd for the same team.
+                    </div>
+                </div>
+
+            </div>
+
+          </tab>
+
+          <tab heading='Open Bets' class="p-1">
+
+            <div *ngIf="(getMatchedLay().length + getMatchedLBack().length) > 0" class="card">
+
+              <div class="card-header bg-secondary text-white text-center">
+                <span>Matched</span>
+              </div>
+
+              <div class="card-body p-0">
+
+                  <table *ngIf="getMatchedLBack().length > 0" class="table table-bordered table-hover table-sm mb-1" style="text-align:center;" >
+                    <thead>
+                      <tr class="d-flex">
+                        <th class="col-4 d-flex justify-content-center align-items-center">Back (Bet For)</th>
+                        <th class="col d-flex justify-content-center align-items-center">Odds</th>
+                        <th class="col d-flex justify-content-center align-items-center">Stake</th>
+                        <th class="col d-flex justify-content-center align-items-center">Profit</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <div *ngFor="let offer of getMatchedLBack() | keyvalue; let i = index;">
+                        <tr class="col d-flex justify-content-center align-items-center">{{offer.value.teams}}</tr>
+                        <tr class="d-flex" >
+                          <td class="col-4 d-flex justify-content-center align-items-center">
+                            <div class="">{{offer.value.runnerName}}</div>
+                          </td>
+                          <td class="col d-flex justify-content-center align-items-center">{{offer.value.odds}}</td>
+                          <td class="col d-flex justify-content-center align-items-center">{{offer.value.inStake}}</td>
+                          <td class="col d-flex justify-content-center align-items-center">{{offer.value.profit}}&#8378;</td>
+                        </tr>
+                      </div>
+                    </tbody>
+                  </table>
+
+                  <table *ngIf="getMatchedLay().length > 0" class="table table-bordered table-hover table-sm mb-1" style="text-align:center;">
+                    <thead>
+                      <tr class="d-flex">
+                        <th class="col-4 d-flex justify-content-center align-items-center">Lay (Bet Against)</th>
+                        <th class="col d-flex justify-content-center align-items-center">Odds</th>
+                        <th class="col d-flex justify-content-center align-items-center">Stake</th>
+                        <th class="col d-flex justify-content-center align-items-center">Liability</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <div *ngFor="let offer of getMatchedLay() | keyvalue; let i = index;">
+                        <tr class="col d-flex justify-content-center align-items-center">{{offer.value.teams}}</tr>
+                        <tr class="d-flex" >
+                          <td class="col-4 d-flex justify-content-center align-items-center">
+                            <div>{{offer.value.runnerName}}</div>
+                          </td>
+                          <td class="col d-flex justify-content-center align-items-center">{{offer.value.odds}}</td>
+                          <td class="col d-flex justify-content-center align-items-center">{{offer.value.inStake}}</td>
+                          <td class="col d-flex justify-content-center align-items-center">{{offer.value.lalaibelty}}&#8378;</td>
+                        </tr>
+                      </div>
+                    </tbody>
+                  </table>
+              </div>
+
+
+            </div>
+
+            <div *ngIf="(getUnMatchedLay().length + getUnMatchedBack().length) > 0" class="card">
+
+              <div class="card-header bg-secondary text-white text-center">
+                <span>UnMatched</span>
+              </div>
+
+              <div class="card-body p-0">
+
+                  <table *ngIf="getUnMatchedBack().length > 0" class="table table-bordered table-hover table-sm mb-1" style="text-align:center;" >
+                    <thead>
+                      <tr class="d-flex">
+                        <th class="col-4 d-flex justify-content-center align-items-center">Back (Bet For)</th>
+                        <th class="col d-flex justify-content-center align-items-center">Odds</th>
+                        <th class="col d-flex justify-content-center align-items-center">Stake</th>
+                        <th class="col d-flex justify-content-center align-items-center">Profit</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <div *ngFor="let offer of getUnMatchedBack() | keyvalue; let i = index;">
+                        <tr class="col d-flex justify-content-center align-items-center">{{offer.value.teams}}</tr>
+                        <tr class="d-flex">
+                          <td class="col-4 d-flex justify-content-center align-items-center">
+                            <div class="">{{offer.value.runnerName}}</div>
+                          </td>
+                          <td class="col d-flex justify-content-center align-items-center">{{offer.value.odds}}</td>
+                          <td class="col d-flex justify-content-center align-items-center">{{offer.value.stake}}</td>
+                          <td class="col d-flex justify-content-center align-items-center">{{offer.value.profit}}&#8378;</td>
+                        </tr>
+                        </div>
+                    </tbody>
+                  </table>
+
+                  <table *ngIf="getUnMatchedLay().length > 0" class="table table-bordered table-hover table-sm mb-1" style="text-align:center;">
+                    <thead>
+                      <tr class="d-flex">
+                        <th class="col-4 d-flex justify-content-center align-items-center">Lay (Bet Against)</th>
+                        <th class="col d-flex justify-content-center align-items-center">Odds</th>
+                        <th class="col d-flex justify-content-center align-items-center">Stake</th>
+                        <th class="col d-flex justify-content-center align-items-center">Liability</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <div *ngFor="let offer of getUnMatchedLay() | keyvalue; let i = index;">
+                        <tr class="col d-flex justify-content-center align-items-center">{{offer.value.teams}}</tr>
+                        <tr class="d-flex">
+                          <td class="col-4 d-flex justify-content-center align-items-center">
+                            <div>{{offer.value.runnerName}}</div>
+                          </td>
+                          <td class="col d-flex justify-content-center align-items-center">{{offer.value.odds}}</td>
+                          <td class="col d-flex justify-content-center align-items-center">{{offer.value.stake}}</td>
+                          <td class="col d-flex justify-content-center align-items-center">{{offer.value.lalaibelty}}&#8378;</td>
+                        </tr>
+                      </div>
+                    </tbody>
+                  </table>
+              </div>
+
+
+            </div>
+            <button
+                      type="button"
+                      class="btn btn-secondary"
+                      (click)='clearPlacedUnMatched()'
+                      >Cancell All UnMatched</button>
+          </tab>
+
+        </tabset>
+
+      </div>
+
+    </ng-scrollbar>
+    </nav>
+
+  </div>
+
+</div>
+<!--
+<div class="d-flex justify-content-center" *ngIf="pagination">
+  <pagination
+      [boundaryLinks]="true"
+      [totalItems]="pagination.totalItems"
+      [itemsPerPage]="pagination.itemsPerPage"
+      [(ngModel)]="pagination.currentPage"
+      (pageChanged)="pageChanged($event)"
+      previousText="&lsaquo;"
+      nextText="&rsaquo;"
+      firstText="&laquo;"
+      lastText="&raquo;">
+  </pagination>
+</div> -->
