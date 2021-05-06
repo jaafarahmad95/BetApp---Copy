@@ -1,0 +1,81 @@
+C:\Users\amir\source\repos\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.deps.json
+C:\Users\amir\source\repos\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\source\repos\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\source\repos\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.AssemblyInfo.cs
+C:\Users\amir\source\repos\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\source\repos\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\source\repos\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.deps.json
+C:\Users\amir\source\repos\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\source\repos\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\source\repos\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.Models.dll
+C:\Users\amir\source\repos\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.Models.pdb
+C:\Users\amir\source\repos\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.AssemblyInfo.cs
+C:\Users\amir\source\repos\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csproj.CopyComplete
+C:\Users\amir\source\repos\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\source\repos\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.deps.json
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.Models.dll
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.Models.pdb
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csprojAssemblyReference.cache
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.AssemblyInfoInputs.cache
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.AssemblyInfo.cs
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csproj.CoreCompileInputs.cache
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csproj.CopyComplete
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.deps.json
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.Models.dll
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.Models.pdb
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.AssemblyInfo.cs
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csproj.CopyComplete
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.deps.json
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.Models.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.Models.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.AssemblyInfo.cs
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csproj.CopyComplete
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.deps.json
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.Models.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.Models.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.AssemblyInfo.cs
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csproj.CopyComplete
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.deps.json
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.Models.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.dto\bin\Debug\netcoreapp3.1\testtest.Models.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.AssemblyInfo.cs
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.csproj.CopyComplete
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.dto\obj\Debug\netcoreapp3.1\testtest.dto.pdb

@@ -1,0 +1,36 @@
+###
+//get user by username
+GET https://localhost:5001/api/v1/users/Admin
+
+###
+//getCompetitionsInRegions
+GET https://localhost:5001/api/v1/event/all
+###
+//getEventsinComp
+GET https://localhost:5001/api/v1/Events/Africa/African Cup of Nations - Qualifiers
+
+
+###
+//getEventsinComp
+GET https://localhost:5001/api/v1/Events/Georgia/Erovnuli%20Liga
+
+
+###
+//getMarkets in Event Africa
+GET https://localhost:5001/api/v1/event/11278368
+
+###
+//getOdds in Market
+GET https://localhost:5001/api/v1/offers/lay/11278368/Match Result
+
+###
+//getLayOdds in Market
+GET https://localhost:5001/api/v1/offers/lay/11278368/Match Result
+
+###
+//getBackOdds in Market
+GET https://localhost:5001/api/v1/offers/back/11278368/Match Result
+###
+
+//getBothLay and Back for southAfrica
+GET https://localhost:5001/api/v1/offers/11349087/Match Result

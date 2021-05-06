@@ -1,0 +1,382 @@
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.StaticWebAssets.xml
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.exe
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.xml
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.deps.json
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.runtimeconfig.json
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.runtimeconfig.dev.json
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\AspNetCore.Identity.Mongo.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDB.Driver.GridFS.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDbGenericRepository.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Mongolino.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.DataAccess.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Models.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Service.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.DataAccess.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.LoggingServices.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Models.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.AssemblyInfo.cs
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.RazorTargetAssemblyInfo.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.csproj.CopyComplete
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\staticwebassets\testtest.StaticWebAssets.Manifest.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\staticwebassets\testtest.StaticWebAssets.xml
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.genruntimeconfig.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Hangfire.Core.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\ca\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\de\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\es\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\fr\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\nb\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Hangfire.Mongo.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Hangfire.AspNetCore.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Quartz.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.StaticWebAssets.xml
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.exe
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.xml
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.deps.json
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.runtimeconfig.json
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.runtimeconfig.dev.json
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\AspNetCore.Identity.Mongo.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Hangfire.AspNetCore.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Hangfire.Core.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Hangfire.Mongo.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDB.Driver.GridFS.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDbGenericRepository.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Mongolino.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Quartz.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\ca\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\de\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\es\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\fr\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\nb\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.DataAccess.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Models.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Service.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.DataAccess.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.LoggingServices.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Models.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.AssemblyInfo.cs
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.RazorTargetAssemblyInfo.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.csproj.CopyComplete
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\staticwebassets\testtest.StaticWebAssets.Manifest.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\staticwebassets\testtest.StaticWebAssets.xml
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.genruntimeconfig.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.StaticWebAssets.xml
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.exe
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.xml
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.deps.json
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.runtimeconfig.json
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.runtimeconfig.dev.json
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\AspNetCore.Identity.Mongo.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\AspNetCore.Identity.MongoDbCore.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Hangfire.AspNetCore.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Hangfire.Core.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Hangfire.Mongo.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDB.Driver.GridFS.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\MongoDbGenericRepository.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Mongolino.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Quartz.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\ca\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\de\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\es\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\fr\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\nb\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.DataAccess.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Models.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Service.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.DataAccess.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.LoggingServices.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\testtest.Models.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.AssemblyInfo.cs
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.RazorTargetAssemblyInfo.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.csproj.CopyComplete
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\staticwebassets\testtest.StaticWebAssets.Manifest.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\staticwebassets\testtest.StaticWebAssets.xml
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\obj\Debug\netcoreapp3.1\testtest.genruntimeconfig.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Quartz.Serialization.Json.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Common.Logging.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Common.Logging.Core.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Quartz.Spi.MongoDbJobStore.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Quartz.AspNetCore.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Quartz.Extensions.DependencyInjection.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest\bin\Debug\netcoreapp3.1\Quartz.Extensions.Hosting.dll

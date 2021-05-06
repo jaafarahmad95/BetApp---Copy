@@ -1,0 +1,124 @@
+C:\Users\amir\source\repos\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.deps.json
+C:\Users\amir\source\repos\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\source\repos\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.pdb
+C:\Users\amir\source\repos\AppUserService\bin\Debug\netcoreapp3.1\testtest.Models.dll
+C:\Users\amir\source\repos\AppUserService\bin\Debug\netcoreapp3.1\testtest.Models.pdb
+C:\Users\amir\source\repos\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.AssemblyInfo.cs
+C:\Users\amir\source\repos\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csproj.CopyComplete
+C:\Users\amir\source\repos\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\source\repos\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.pdb
+C:\Users\amir\source\repos\AppUserService\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\source\repos\AppUserService\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\source\repos\AppUserService\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\source\repos\AppUserService\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\source\repos\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.deps.json
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.pdb
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.DataAccess.dll
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Models.dll
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.DataAccess.pdb
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Models.pdb
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.AssemblyInfo.cs
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csproj.CopyComplete
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\source\repos\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.pdb
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.deps.json
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.pdb
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.DataAccess.dll
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Models.dll
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.DataAccess.pdb
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Models.pdb
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csprojAssemblyReference.cache
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.AssemblyInfoInputs.cache
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.AssemblyInfo.cs
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csproj.CoreCompileInputs.cache
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csproj.CopyComplete
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.pdb
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.deps.json
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.pdb
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.DataAccess.dll
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Models.dll
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.DataAccess.pdb
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Models.pdb
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.AssemblyInfo.cs
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csproj.CopyComplete
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.deps.json
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.DataAccess.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Models.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.DataAccess.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Models.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.AssemblyInfo.cs
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csproj.CopyComplete
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.deps.json
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.DataAccess.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Models.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.DataAccess.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Models.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.AssemblyInfo.cs
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csproj.CopyComplete
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.deps.json
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Service.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.DataAccess.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.dto.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Models.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.DataAccess.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.dto.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\bin\Debug\netcoreapp3.1\testtest.Models.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.AssemblyInfo.cs
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.csproj.CopyComplete
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\AppUserService\obj\Debug\netcoreapp3.1\testtest.Service.pdb

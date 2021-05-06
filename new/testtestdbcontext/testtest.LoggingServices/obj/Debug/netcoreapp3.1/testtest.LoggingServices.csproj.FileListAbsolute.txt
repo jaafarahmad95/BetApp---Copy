@@ -1,0 +1,84 @@
+C:\Users\amir\source\repos\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.deps.json
+C:\Users\amir\source\repos\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\source\repos\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.AssemblyInfo.cs
+C:\Users\amir\source\repos\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.pdb
+C:\Users\amir\source\repos\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\source\repos\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.pdb
+C:\Users\amir\source\repos\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\source\repos\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\source\repos\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csproj.CopyComplete
+C:\Users\amir\source\repos\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.deps.json
+C:\Users\amir\source\repos\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\source\repos\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.pdb
+C:\Users\amir\source\repos\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\source\repos\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\source\repos\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.AssemblyInfo.cs
+C:\Users\amir\source\repos\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csproj.CopyComplete
+C:\Users\amir\source\repos\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\source\repos\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.pdb
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.deps.json
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.pdb
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csprojAssemblyReference.cache
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.AssemblyInfoInputs.cache
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.AssemblyInfo.cs
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csproj.CoreCompileInputs.cache
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csproj.CopyComplete
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.pdb
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.deps.json
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.pdb
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.AssemblyInfo.cs
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csproj.CopyComplete
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.deps.json
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.AssemblyInfo.cs
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csproj.CopyComplete
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.deps.json
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.AssemblyInfo.cs
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csproj.CopyComplete
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.deps.json
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.LoggingServices.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.LoggingServices\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.AssemblyInfo.cs
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.csproj.CopyComplete
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.LoggingServices\obj\Debug\netcoreapp3.1\testtest.LoggingServices.pdb

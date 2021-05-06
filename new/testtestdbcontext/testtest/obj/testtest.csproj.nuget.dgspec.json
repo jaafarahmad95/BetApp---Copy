@@ -1,0 +1,712 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest\\testtest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\AppUserService\\testtest.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\AppUserService\\testtest.Service.csproj",
+        "projectName": "testtest.Service",
+        "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\AppUserService\\testtest.Service.csproj",
+        "packagesPath": "C:\\Users\\amir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\AppUserService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.DataAccess\\testtest.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.DataAccess\\testtest.DataAccess.csproj"
+              },
+              "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.dto\\testtest.dto.csproj": {
+                "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.dto\\testtest.dto.csproj"
+              },
+              "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.helpers\\testtest.helpers.csproj": {
+                "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.helpers\\testtest.helpers.csproj"
+              },
+              "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.Models\\testtest.Models.csproj": {
+                "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.Models\\testtest.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AspNetCore.Identity.MongoDbCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Core": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.5, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\ILoggerManager\\testtest.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\ILoggerManager\\testtest.Contract.csproj",
+        "projectName": "testtest.Contract",
+        "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\ILoggerManager\\testtest.Contract.csproj",
+        "packagesPath": "C:\\Users\\amir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\ILoggerManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\NotificationSystem.Domain\\NotificationSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\NotificationSystem.Domain\\NotificationSystem.Domain.csproj",
+        "projectName": "NotificationSystem.Domain",
+        "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\NotificationSystem.Domain\\NotificationSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\amir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\NotificationSystem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.DataAccess\\testtest.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.DataAccess\\testtest.DataAccess.csproj",
+        "projectName": "testtest.DataAccess",
+        "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.DataAccess\\testtest.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\amir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.helpers\\testtest.helpers.csproj": {
+                "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.helpers\\testtest.helpers.csproj"
+              },
+              "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.Models\\testtest.Models.csproj": {
+                "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.Models\\testtest.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AspNetCore.Identity.Mongo": {
+              "target": "Package",
+              "version": "[2.5.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.dto\\testtest.dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.dto\\testtest.dto.csproj",
+        "projectName": "testtest.dto",
+        "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.dto\\testtest.dto.csproj",
+        "packagesPath": "C:\\Users\\amir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.Models\\testtest.Models.csproj": {
+                "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.Models\\testtest.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.helpers\\testtest.helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.helpers\\testtest.helpers.csproj",
+        "projectName": "testtest.helpers",
+        "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.helpers\\testtest.helpers.csproj",
+        "packagesPath": "C:\\Users\\amir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.LoggingServices\\testtest.LoggingServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.LoggingServices\\testtest.LoggingServices.csproj",
+        "projectName": "testtest.LoggingServices",
+        "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.LoggingServices\\testtest.LoggingServices.csproj",
+        "packagesPath": "C:\\Users\\amir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.LoggingServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\ILoggerManager\\testtest.Contract.csproj": {
+                "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\ILoggerManager\\testtest.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.Models\\testtest.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.Models\\testtest.Models.csproj",
+        "projectName": "testtest.Models",
+        "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.Models\\testtest.Models.csproj",
+        "packagesPath": "C:\\Users\\amir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AspNetCore.Identity.Mongo": {
+              "target": "Package",
+              "version": "[2.5.1, )"
+            },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[2.12.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest\\testtest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest\\testtest.csproj",
+        "projectName": "testtest",
+        "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest\\testtest.csproj",
+        "packagesPath": "C:\\Users\\amir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\amir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\AppUserService\\testtest.Service.csproj": {
+                "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\AppUserService\\testtest.Service.csproj"
+              },
+              "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\ILoggerManager\\testtest.Contract.csproj": {
+                "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\ILoggerManager\\testtest.Contract.csproj"
+              },
+              "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\NotificationSystem.Domain\\NotificationSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\NotificationSystem.Domain\\NotificationSystem.Domain.csproj"
+              },
+              "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.DataAccess\\testtest.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.DataAccess\\testtest.DataAccess.csproj"
+              },
+              "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.dto\\testtest.dto.csproj": {
+                "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.dto\\testtest.dto.csproj"
+              },
+              "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.helpers\\testtest.helpers.csproj": {
+                "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.helpers\\testtest.helpers.csproj"
+              },
+              "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.LoggingServices\\testtest.LoggingServices.csproj": {
+                "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.LoggingServices\\testtest.LoggingServices.csproj"
+              },
+              "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.Models\\testtest.Models.csproj": {
+                "projectPath": "C:\\Users\\amir\\Desktop\\BetApp - Copy\\new\\testtestdbcontext\\testtest.Models\\testtest.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.1, )"
+            },
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.7.22, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.7.22, )"
+            },
+            "Hangfire.Mongo": {
+              "target": "Package",
+              "version": "[0.7.20, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Core": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "Quartz.AspNetCore": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "Quartz.Serialization.Json": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "Quartz.Spi.MongoDbJobStore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

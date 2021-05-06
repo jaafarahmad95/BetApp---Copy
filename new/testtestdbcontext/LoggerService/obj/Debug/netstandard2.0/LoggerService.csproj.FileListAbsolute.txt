@@ -1,0 +1,14 @@
+C:\Users\amir\source\repos\LoggerService\bin\Debug\netstandard2.0\Contracts.dll
+C:\Users\amir\source\repos\LoggerService\obj\Debug\netstandard2.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\LoggerService\obj\Debug\netstandard2.0\LoggerService.AssemblyInfo.cs
+C:\Users\amir\source\repos\LoggerService\obj\Debug\netstandard2.0\LoggerService.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\LoggerService\bin\Debug\netstandard2.0\LoggerService.deps.json
+C:\Users\amir\source\repos\LoggerService\bin\Debug\netstandard2.0\LoggerService.dll
+C:\Users\amir\source\repos\LoggerService\bin\Debug\netstandard2.0\LoggerService.pdb
+C:\Users\amir\source\repos\LoggerService\bin\Debug\netstandard2.0\Contracts.pdb
+C:\Users\amir\source\repos\LoggerService\obj\Debug\netstandard2.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\LoggerService\obj\Debug\netstandard2.0\LoggerService.csproj.CopyComplete
+C:\Users\amir\source\repos\LoggerService\obj\Debug\netstandard2.0\LoggerService.dll
+C:\Users\amir\source\repos\LoggerService\obj\Debug\netstandard2.0\LoggerService.pdb
+C:\Users\amir\source\repos\LoggerService\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\amir\source\repos\LoggerService\bin\Debug\netstandard2.0\Entities.pdb

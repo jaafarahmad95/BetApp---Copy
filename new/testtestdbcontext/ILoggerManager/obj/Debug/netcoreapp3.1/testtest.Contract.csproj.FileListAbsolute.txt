@@ -1,0 +1,63 @@
+C:\Users\amir\source\repos\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.deps.json
+C:\Users\amir\source\repos\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\source\repos\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\source\repos\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.AssemblyInfo.cs
+C:\Users\amir\source\repos\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\source\repos\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\source\repos\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.deps.json
+C:\Users\amir\source\repos\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\source\repos\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\source\repos\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.AssemblyInfo.cs
+C:\Users\amir\source\repos\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\source\repos\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.deps.json
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.csprojAssemblyReference.cache
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.AssemblyInfoInputs.cache
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.AssemblyInfo.cs
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.csproj.CoreCompileInputs.cache
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.deps.json
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.AssemblyInfo.cs
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.deps.json
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.AssemblyInfo.cs
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.deps.json
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.AssemblyInfo.cs
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.deps.json
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\ILoggerManager\bin\Debug\netcoreapp3.1\testtest.Contract.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.AssemblyInfo.cs
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\ILoggerManager\obj\Debug\netcoreapp3.1\testtest.Contract.pdb

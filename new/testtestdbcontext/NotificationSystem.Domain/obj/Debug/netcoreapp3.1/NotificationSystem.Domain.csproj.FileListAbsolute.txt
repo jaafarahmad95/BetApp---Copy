@@ -1,0 +1,36 @@
+C:\Users\amir\source\repos\BetAPIwithmarkets\testtestdbcontext\NotificationSystem.Domain\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.deps.json
+C:\Users\amir\source\repos\BetAPIwithmarkets\testtestdbcontext\NotificationSystem.Domain\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.dll
+C:\Users\amir\source\repos\BetAPIwithmarkets\testtestdbcontext\NotificationSystem.Domain\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.pdb
+C:\Users\amir\source\repos\BetAPIwithmarkets\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\BetAPIwithmarkets\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\BetAPIwithmarkets\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.AssemblyInfo.cs
+C:\Users\amir\source\repos\BetAPIwithmarkets\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\BetAPIwithmarkets\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.dll
+C:\Users\amir\source\repos\BetAPIwithmarkets\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\NotificationSystem.Domain\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.deps.json
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\NotificationSystem.Domain\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\NotificationSystem.Domain\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.AssemblyInfo.cs
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\NotificationSystem.Domain\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.deps.json
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\NotificationSystem.Domain\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\NotificationSystem.Domain\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.AssemblyInfo.cs
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\NotificationSystem.Domain\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.deps.json
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\NotificationSystem.Domain\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\NotificationSystem.Domain\bin\Debug\netcoreapp3.1\NotificationSystem.Domain.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.AssemblyInfo.cs
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\NotificationSystem.Domain\obj\Debug\netcoreapp3.1\NotificationSystem.Domain.pdb

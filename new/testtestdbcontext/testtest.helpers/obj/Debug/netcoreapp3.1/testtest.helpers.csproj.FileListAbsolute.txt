@@ -1,0 +1,63 @@
+C:\Users\amir\source\repos\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.deps.json
+C:\Users\amir\source\repos\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\source\repos\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\source\repos\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.AssemblyInfo.cs
+C:\Users\amir\source\repos\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\source\repos\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\source\repos\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.deps.json
+C:\Users\amir\source\repos\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\source\repos\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\source\repos\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.AssemblyInfo.cs
+C:\Users\amir\source\repos\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\source\repos\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.deps.json
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.csprojAssemblyReference.cache
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.AssemblyInfoInputs.cache
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.AssemblyInfo.cs
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.csproj.CoreCompileInputs.cache
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\Source\Repos\BetAPIAmirBranch\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.deps.json
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.csprojAssemblyReference.cache
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.AssemblyInfoInputs.cache
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.AssemblyInfo.cs
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\source\repos\BetAPIwithMarkets\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.deps.json
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.AssemblyInfo.cs
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\Desktop\testvscode\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.deps.json
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.AssemblyInfo.cs
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\Desktop\BetApp\new\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.deps.json
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.helpers\bin\Debug\netcoreapp3.1\testtest.helpers.pdb
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.csprojAssemblyReference.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.AssemblyInfoInputs.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.AssemblyInfo.cs
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.csproj.CoreCompileInputs.cache
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.dll
+C:\Users\amir\Desktop\BetApp - Copy\new\testtestdbcontext\testtest.helpers\obj\Debug\netcoreapp3.1\testtest.helpers.pdb

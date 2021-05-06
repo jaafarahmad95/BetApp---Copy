@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>testtest</name>
+    </assembly>
+    <members>
+        <member name="M:testtest.Controllers.CurrencyController.GetCurrencies">
+            <summary>
+            Get List of Currencies
+            </summary>
+            <returns>return List of Currencies</returns>
+        </member>
+        <member name="M:testtest.Controllers.CurrencyController.GetCurrency(System.Int32)">
+            <summary>
+            Get Currency By Id
+            </summary>
+            <param name="currencyId"></param>
+            <returns>return Author</returns>
+        </member>
+        <member name="M:testtest.Controllers.CurrencyController.GetDefaultCurrency(System.String)">
+            <summary>
+            Get Default Currency
+            </summary>
+            <returns>Return Default Currency</returns>
+        </member>
+        <member name="M:testtest.Controllers.CurrencyController.SetDefaultCurrency(System.Int32,System.String)">
+            <summary>
+            Set Default Currency
+            </summary>
+            <returns>return 200 Ok </returns>
+        </member>
+        <member name="M:testtest.Controllers.CurrencyController.UpdateCurrencyPut(testtest.dto.CurrencyUpdateList)">
+            <summary>
+            Update Currency with Put Method
+            </summary>
+            <param name="currencyUpdate">currency update parameter</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
